@@ -1,0 +1,2 @@
+"Hello all"
+This is a basic program, will be used for first commit.
